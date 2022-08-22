@@ -1,1 +1,7 @@
 # Client-Server-Development
+
+I think the easiest way to creat maintainable, readable, and adaptable programs are to break them into very basic function and comment them well. If you do this with all of your programs you will often be able to read them easier and debug them easier as well. This was readibly apparent in project one when we seperated the CRUD module from the ipynb file. The CRUD module had very basic functionality to work with the database. After estabilishing this code we didnt really need to edit it in order to build on it.
+
+Approaching a problem as a computer scientist I often try to collect as many details as possbible first and then I do some more research into how the problem should be approached. In this course especially I researched plenty of documentation and examples in order to finish up my work and my projects. These are definitely strategies I will be using to approach assignments and future projects.
+
+Computer scientists build a bridge between the powerful hardware and processing of a computer and the end user. They are responsible for using the tools granted by computers and turning it into information that can be understood and serve a purpose. Working on a project like this would help Gravioso Salvare by organizing the information they have and sorting it into categories that would be useful for them. This would cut down the the time it takes for them to do it by hand and in the long run, save them money.
